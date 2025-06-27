@@ -130,7 +130,7 @@ const Index = () => {
           <div className="grid lg:grid-cols-2 gap-12">
             <Card className="bg-gradient-to-br from-green-100 to-green-50 border-green-200">
               <CardContent className="p-8">
-                <h3 className="text-2xl font-bold text-green-800 mb-6">Línea 1: Plan Estratégico RER</h3>
+                <h3 className="text-2xl font-bold text-green-800 mb-6">Plan Estratégico RER</h3>
                 <ul className="space-y-4">
                   <li className="flex items-start space-x-3">
                     <div className="w-2 h-2 bg-green-600 rounded-full mt-2"></div>
@@ -150,7 +150,7 @@ const Index = () => {
 
             <Card className="bg-gradient-to-br from-blue-100 to-blue-50 border-blue-200">
               <CardContent className="p-8">
-                <h3 className="text-2xl font-bold text-blue-800 mb-6">Línea 2: Formación e Implementación</h3>
+                <h3 className="text-2xl font-bold text-blue-800 mb-6">Formación e Implementación</h3>
                 <ul className="space-y-4">
                   <li className="flex items-start space-x-3">
                     <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
