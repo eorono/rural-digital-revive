@@ -1,4 +1,3 @@
-
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
@@ -403,13 +402,12 @@ const Index = () => {
             </div>
             <div>
               <h4 className="font-semibold mb-4">Logos Institucionales</h4>
-              <div className="grid grid-cols-2 gap-4">
-                <div className="w-16 h-16 bg-white/10 rounded flex items-center justify-center text-xs text-center">
-                  MITECO
-                </div>
-                <div className="w-16 h-16 bg-white/10 rounded flex items-center justify-center text-xs text-center">
-                  GOB ESP
-                </div>
+              <div className="bg-white rounded-lg p-2">
+                <img 
+                  src="/lovable-uploads/b18d4a69-5916-424e-881e-ab8a51fb5b7d.png" 
+                  alt="Gobierno de España - Ministerio para la Transición Ecológica y el Reto Demográfico - Secretaría General para el Reto Demográfico" 
+                  className="w-full h-auto"
+                />
               </div>
             </div>
           </div>
