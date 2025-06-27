@@ -35,9 +35,11 @@ const Index = () => {
       <header className="bg-white shadow-sm sticky top-0 z-50">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-3">
-            <div className="w-12 h-12 bg-gradient-to-br from-green-600 to-blue-600 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-lg">A2</span>
-            </div>
+            <img 
+              src="/lovable-uploads/51107672-7d70-480f-8f4c-8c08ad0e1d2e.png" 
+              alt="Audita2 Logo" 
+              className="h-12 w-auto"
+            />
             <div>
               <h1 className="text-xl font-bold text-gray-900">REDIAG – Audita2</h1>
               <p className="text-sm text-gray-600">Red Digital de Asesorías y Gestorías para el Desarrollo Rural</p>
